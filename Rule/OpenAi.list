@@ -1,6 +1,7 @@
 # OPENAI所用到的服务相关域名，包括Google和CloudFlare的人机验证之类
 
 DOMAIN,cdn.auth0.com
+DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-SUFFIX,akamaized.net
